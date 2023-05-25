@@ -1,0 +1,5 @@
+#!/bin/sh
+
+./configure --quiet --compact
+make
+cp build/kissat ./bin/

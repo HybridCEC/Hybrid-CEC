@@ -1,0 +1,5 @@
+#define VERSION "1.0.3"
+#define COMPILER "gcc (Ubuntu 9.4.0-1ubuntu1~20.04.1) 9.4.0 -W -Wall -O3 -DNEMBEDDED -DNDEBUG -DNMETRICS -DNSTATISTICS"
+#define ID "unknown"
+#define BUILD "Thu Dec 15 03:08:54 CST 2022 Linux seed1 5.4.0-120-generic x86_64"
+#define DIR "/home/chenzh/experiments/cec/SAT-sweeping/hKis/build"

@@ -1,0 +1,2 @@
+#!/bin/sh
+exec ./kissat --unsat --psids=true $1 $2/proof.out

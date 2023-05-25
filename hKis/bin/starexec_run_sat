@@ -1,0 +1,2 @@
+#!/bin/sh
+exec ./kissat --sat --walkinitially=true $1 $2/proof.out
